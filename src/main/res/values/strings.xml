@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IsIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Is it...yet?</string>
+    <string name="bday_button">MY BIRTHDAY</string>
+    <string name="nameLabel">Name:</string>
+    <string name="dobLabel">Date of birth (mm.dd)</string>
+    <string name="radioMale">Male</string>
+    <string name="radioFemale">Female</string>
+    <string name="genderLabel">Gender:</string>
+    <string name="saveButton">Save</string>
+    <string name="emptyError">Please fill the form below!</string>
+
+</resources>
